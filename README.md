@@ -9,7 +9,7 @@ To use the _printf function, assuming the above dependencies have been installed
 
 Example main.c:
 
-#include "holberton.h"
+#include "main.h"
 
 int main(void)
 {
