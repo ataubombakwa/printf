@@ -327,7 +327,7 @@ Output:
 Authors ✒️
 Ataubo Mbakwa Anjoanei <ataubombakwa>
 Rashad Kasabalala <RASHAD 10>
-License 🔒
+
 
 
 Acknowledgements 🙏
