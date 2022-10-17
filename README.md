@@ -333,4 +333,4 @@ License 🔒
 Acknowledgements 🙏
 The _printf function emulates functionality of the C standard library function printf. This README borrows from the Linux man page printf(3).
 
-This program was written as part of the curriculum for ALX-HOLBERTON School. ALX-HOLBERTON School is a campus-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning.
+This program was written as part of the curriculum for ALX-HOLBERTON School. ALX-HOLBERTON School is a campus-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning.The Head quarters of ALX-HOLBERTON is found in Kenya.
